@@ -10,7 +10,6 @@
 ## Portfolio
 
 ### Langues que j'utilise
-[![Swift](https://img.shields.io/badge/-Swift-141414?style=flat&logo=swift)](https://developer.apple.com/documentation/swift/)
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
 [![LUA](https://img.shields.io/badge/-LUA-141414?style=flat&logo=lua)](https://www.lua.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)](https://www.javascript.com/)
@@ -31,41 +30,29 @@
 [![Fedora](https://img.shields.io/badge/-Fedora-141414?style=flat&logo=fedora)](https://getfedora.org/)
 
 ### Frameworks
-[![Symfony](https://img.shields.io/badge/-Symfony-141414?style=flat&logo=Symfony)](https://symfony.com)
-[![Laravel](https://img.shields.io/badge/-Laravel-141414?style=flat&logo=Laravel)](https://laravel.com)
 [![Wordpress](https://img.shields.io/badge/-Wordpress-141414?style=flat&logo=wordpress)](https://wordpress.com)
-[![Prestashop](https://img.shields.io/badge/-Prestashop-141414?style=flat&logo=prestashop)](https://prestashop.com)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)](https://getbootstrap.com/)
 [![DiscordPy](https://img.shields.io/badge/-DiscordPY-141414?style=flat&logo=Python)](https://discord.com)
 [![FiveM](https://img.shields.io/badge/-FiveM-141414?style=flat&logo=FiveM)](https://github.com/citizenfx/fivem)
-[![Oxide](https://img.shields.io/badge/-Oxide-141414?style=flat&logo=Oxygen)](https://github.com/OxideMod)
 
 ### Frameworks que j'apprends
 [![NodeJS](https://img.shields.io/badge/-NodeJS-141414?style=flat&logo=Node.js)](https://nodejs.org/en/docs/)
-[![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-141414?style=flat&logo=Flutter)](https://flutter.dev/)
 
 ### Databases
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-141414?style=flat&logo=mariadb&logoColor=FFFFFF)](https://mariadb.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)](https://www.mongodb.com/)
 
 ### Outils et technologie
-[![VS](https://img.shields.io/badge/-Visual%20Studio-141414?style=flat&logo=visual-studio-code&logoColor=7303fc)](https://visualstudio.microsoft.com/es/)
+
+
 [![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141414?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![PHPStorm](https://img.shields.io/badge/-PHPStorm-141414?style=flat&logo=phpstorm)](https://www.jetbrains.com/es-es/phpstorm/)
-[![Vim](https://img.shields.io/badge/-Vim-141414?style=flat&logo=vim)](https://vim.org)
-[![NeoVim](https://img.shields.io/badge/-NeoVim-141414?style=flat&logo=neovim)](https://neovim.io)
 [![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)](https://docker.com)
 [![OpenVPN](https://img.shields.io/badge/-OpenVPN-141414?style=flat&logo=OpenVPN)](https://openvpn.net)
 [![Nginx](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)](https://nginx.org/)
 [![Apache](https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache)](https://apache.org/)
-[![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnubash)](https://www.gnu.org/software/bash/)
-[![Batch](https://img.shields.io/badge/-Batch-141414?style=flat&logo=windows%20terminal)](https://azure.microsoft.com/es-es/products/batch)
 [![Linux](https://img.shields.io/badge/-Linux-141414?style=flat&logo=linux)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)](https://www.microsoft.com/en-us/windows/)
 [![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github)](https://github.com)
-[![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/)
 [![npm](https://img.shields.io/badge/-npm-141414?style=flat&logo=npm)](https://www.npmjs.com/)
 [![Sublime](https://img.shields.io/badge/-Sublime-141414?style=flat&logo=sublimetext)](https://www.sublimetext.com/)
 [![VMWare](https://img.shields.io/badge/-VMware-141414?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/es.html)
