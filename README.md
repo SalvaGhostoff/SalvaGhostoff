@@ -1,4 +1,4 @@
-### Salut , je suis SalvaGhost
+### Bonjour, je suis SalvaGhost
 
 ## Ce que je fais actuellement
 
@@ -20,7 +20,6 @@
 
 ### Langues que j'apprends
 [![CSharp](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Dart](https://img.shields.io/badge/-Dart-141414?style=flat&logo=dart)]([https://docs.microsoft.com/en-us/dotnet/csharp/](https://dart.dev/))
 
 ### Distributions Linux
 [![Debian](https://img.shields.io/badge/-Debian-141414?style=flat&logo=debian)](https://www.debian.org/)
