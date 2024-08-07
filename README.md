@@ -1,4 +1,4 @@
-### Bonjour, je suis SalvaGhost
+### Bonjour, je suis SalvaGhost:
 
 ## Ce que je fais actuellement
 
